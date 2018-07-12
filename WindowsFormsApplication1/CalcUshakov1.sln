@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcUshakov1", "WindowsFormsApplication1\CalcUshakov1.csproj", "{280ECD5E-2B5C-4331-84EE-6EF94CB6A597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcUshakov1.Tests", "WindowsFormsApplication1.Tests\CalcUshakov1.Tests.csproj", "{ACA03434-8962-4131-94EA-6098AA70044A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280ECD5E-2B5C-4331-84EE-6EF94CB6A597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280ECD5E-2B5C-4331-84EE-6EF94CB6A597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280ECD5E-2B5C-4331-84EE-6EF94CB6A597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280ECD5E-2B5C-4331-84EE-6EF94CB6A597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA03434-8962-4131-94EA-6098AA70044A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA03434-8962-4131-94EA-6098AA70044A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA03434-8962-4131-94EA-6098AA70044A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA03434-8962-4131-94EA-6098AA70044A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC9615D-BB24-46A3-855B-CFB8A3200611}
+	EndGlobalSection
+EndGlobal

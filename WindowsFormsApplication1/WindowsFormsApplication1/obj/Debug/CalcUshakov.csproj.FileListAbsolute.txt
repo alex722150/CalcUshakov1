@@ -1,0 +1,10 @@
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.csprojAssemblyReference.cache
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.Form1.resources
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.csproj.GenerateResource.cache
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.csproj.CoreCompileInputs.cache
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcUshakov.exe.config
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcUshakov.exe
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalcUshakov.pdb
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.Properties.Resources.resources
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.exe
+I:\PRACTIKA\Готовые\Team-Tenitckij_Suhkov-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalcUshakov.pdb
